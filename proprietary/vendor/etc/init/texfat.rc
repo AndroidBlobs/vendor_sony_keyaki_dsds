@@ -1,0 +1,3 @@
+on boot
+    # Install exfat module to support exfat file system
+    insmod /vendor/lib/modules/texfat.ko

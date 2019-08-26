@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2017 Sony Mobile Communications Inc.
+ * All rights, including trade secret rights, reserved.
+ -->
+<permissions>
+
+<permission name="com.sonymobile.fota.service.permission.MEDIA_READ_WRITE" >
+    <group gid="media_rw" />
+</permission>
+
+</permissions>
